@@ -8,7 +8,7 @@
 - [Некоторые из имён упоминаемые в книге](/ru/00.characters)
 - [Введение](/ru/01.introduction)
 - Человек: Откуда и Как
-  - [Основы](/ru/01.preliminaries)
+  - [Основные понятия](/ru/01.preliminaries)
   - [Первые Две Цепи](/ru/02.1st-and-2nd-chains)
   - [Начало Лунной Цепи](/ru/03.early-moon-chain)
     - [Шестой Круг Лунной Цепи](/ru/04.6th-moon-round)
