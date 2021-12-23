@@ -1,8 +1,8 @@
-## Приложения
+# Приложения
 
-### Приложение 1
+## Приложение 1
 
-#### Лунная Цепь
+### Лунная Цепь
 
 Имена людей за которыми мы проследили через эпохи были заимствованы из "Просветы в Вуали Времени" и с многими дополнениями перенесены в Приложения. Книга предназначена для большой аудитории и потому слишком много имён изнурили бы читателя. С другой стороны, эти имена представляют большой интерес для членов Теософического Сообщества, многие из которых могут таким образом проследить за своими прежними инкарнациями. Мы сохранили эти имена в тексте, где была в этом необходимость и добавили большое число их взаимоотношений в Приложениях.
 
@@ -10,15 +10,15 @@
 
 Индивидуализировались на планете D пятого Раунда: Геракл, Сириус, Алкион, Мицар и, возможно, те кто позже назывался Служителями, которые работали вместе на протяжении эпох — см. следующий параграф. Многие другие, которые совершили большой прогресс на этих путях, возможно индивидуализировась в этом Раунде. Также индивидуализировались на планете D пятого Раунда: Скорпио и многие того же типа; но они тоже покинули планету в Судный День в шестом Раунде. Их мы впервые заметили в шестом Раунде и они были, очевидно, на том же этапе, что и Геракл, Сириус, Алкион и Мицар и потому, должно быть, индивидуализировались в пятом Раунде.
 
-### Приложение 2
+## Приложение 2
 
-#### В Городе Золотых Врат Около 220,000 лет до н.э.
+###### В Городе Золотых Врат Около 220,000 лет до н.э.
 
 Здесь перечислены те, кого мы узнали на момент написания текста, были ли они упомянуты ранее или нет, так что читатель сам сможет вывести, без больших сложностей, генеалогическое дерево, если пожелает это сделать.
 
 Марс был Императором, Vajra — Коронованный Принц, Меркурий — Иерофант Страны, Ulysses — Капитан Дворцовой Стражи. Среди Имперской Стражи мы нашли: Геракл, Пиндар, Gemini, Капелла, Лютеция, Белонна, Апис, Аркор, Каприкорн, Теодорус, Скотус, Sappho. У Геракла в услужении было три молодых Тлавати: Alcmene, Hygeia, Bootes — они были захвачены в битве его отцом и переданы ему.
 
-### Приложение 3
+## Приложение 3
 
 #### Древнее Перу
 
@@ -48,9 +48,9 @@
 
 Этот маленький листик истинной мировой истории, этот взгляд на одну из картин огромной галереи природы, открывает перед нами то, что может считаться идеальным государством по сравнению со всем, что есть в наши дни, и часть нашего интереса к нему состоит в том факте, что все цели реформ к которым стремяться современные реформаторы, были полностью достигнуты там, но методы достижения были диаметрально противоположны большинству того, что предлагают сейчас. Люди жили мирно и процветали, бедности они не знали, а криминала почти не было, не было поводов для недовольства, а любой мог реализовать свой гений (если у него такой был), выбрав себе профессию или вид деятельности, чем бы она ни была. Ни в коем случае на человека не возлагалась работа слишком сложная или тяжёлая и каждый имел много свободного времени для любой желаемой деятельности. Обучение было полным, бесплатным и эффективным, а больные и старые получали достаточную и даже роскошную заботу. И всё же, вся эта удивительно тщательная система для хорошей физической жизни была сделана, и всё что мы видели, говорит о том, что такая систем могла быть сделана только под абсолютной автократией которой не знал мир.
 
-### Приложение 4
+## Приложение 4
 
-#### Перу Около 12,000 лет до н.э.
+###### Перу Около 12,000 лет до н.э.
 
 Это одно из самых больших собраний тех, кто сейчас работает в Теософском Сообществе. Марс был Императором в то время и списки начинаются с его мамы и папы. Здесь три семьи среди которых они были распределены. Они — потомки Юпитера, Сатурна и Psyche.
 
@@ -62,21 +62,21 @@ The second great family of this period was that of SATURN, who had VENUS as his 
 
 The third family was that of Psyche, whose wife was Libra. To them were born: Rigel-- daughter, who married Betelgueuse, and by whom there were six children: Altair, wife Alba (son Ara, marries Pepin); Hector, husband Albireo (sons, Pegasus, wife Sextans, Berenice, wife Adrona); Auriga, husband Leopardus (daughter Flos, married Irene; Viola, wife, Elektra (daughter, Aulus, married Norma, son, Nitocris, married Arcturus); Cygnus, wife Philae (daughter, Minorca, married Juno); and Demeter, whose wife was Achilles-- Mira, whose husband was Vesta; and Algol, whose wife was Iris, and by whom there were five children: Helios, wife Lomia (daughter, Mathematicus, married Regulus); Draco, wife Phoenix (son Atalanta, married Herminius); Argus, wife Andromeda (daughters, Pepin, married Ara, and Dactyl, married Theseus); Fons, daughter, and Xanthos, son. Boreas is also noticed as one of the characters.
 
-### Приложение 5
+## Приложение 5
 
-#### На берегу моря Гоби Около 72,000 лет до н.э.
+###### На берегу моря Гоби Около 72,000 лет до н.э.
 
 THE MANU had MARS, Vajra, Ulysses, VIRAJ and Apollo as grandsons; MARS married MERCURY, and they had as sons: Sirius, Achilles, Alcyone, Orion and one daughter, Mizar. Sirius married Vega, and had as children: Mira, Rigel, Ajax, Bellatrix and Proserpina, all massacred. Achilles married Albireo, and had a daughter, Hector. Alcyone married Leo, and had as sons: URANUS and NEPTUNE, and as daughters SURYA and BRIHASPATI; all these were saved from the massacre, and, as a woman, SURYA married SATURN, saved at the same time, and VAIVASVATA MANU , VIRAJ and MARS were their children; in the next generation, Herakles was the son of MARS. Returning to the children of MARS and MERCURY, Mizar married Herakles, the son of VIRAJ, and they had three sons: Capricorn, Arcor, Fides, and two daughters, Psyche and Pindar. Corona married Deneb, and had two sons, one of whom was Dorado. Adrona had Pollux as son. Cetus married Clio. Others seen were Orpheus, VULCAN and VENUS, who were both saved, and JUPITER, the head of the community. Vega and Leo were sisters, as were Albireo and Helios, the latter a very pretty and coquettish young lady. Scorpio appeared among the Turanian assailants.
 
-### Приложение 6
+## Приложение 6
 
-#### В Шамбале Около 60,000 лет до н.э.
+###### В Шамбале Около 60,000 лет до н.э.
 
 MARS, a Toltec Prince from Poseidonis, married JUPITER , the daughter of the MANU. They had VIRAJ as son, who married SATURN and of them VAIVASVATA MANU was born.
 
-### Приложение 7
+## Приложение 7
 
-#### В Городе Моста и долине второй подрасы Около 40,000 лет до н.э.
+###### В Городе Моста и долине второй подрасы Около 40,000 лет до н.э.
 
 Two families chiefly provided the emigrants, Corona and Theodoros, who sent two sons, Herakles and Pindar, and Demeter and Fomalhaut sent their sons, Vega and Aurora, and their daughters, Sirius and Dorado; their remaining son Mira and daughter Draco remained with them in the City. In the City were also Castor and Rhea. Lachesis, who married Amalthea, had Velleda as son; and Calypso who ran away with Amalthea; Crux, a foreigner, with Phocea, came as visitors.
 
@@ -86,37 +86,37 @@ Pindar married Beatrix, and they had Gemini, Arcor, and Polaris as children. Gem
 
 The children of Sirius are given above; his brother Vega married Helios, and they had children Leo, Proserpina, Canopus, Aquarius, and Ajax. Aurora married Hector, and one of their children was Albireo. Dorado had a daughter Aletheia, who married Argus.
 
-### Приложение 8
+## Приложение 8
 
-#### В Городе Моста и долине третьей подрасы Около 32,000 лет до н.э.
+###### В Городе Моста и долине третьей подрасы Около 32,000 лет до н.э.
 
 THE MANU was married to MERCURY, and had Sirius as a younger son. Sirius married Mizar, and had as children: Alcyone, Orion, VENUS , Ulysses, Albireo and SATURN , and went to the valley. Alcyone married Achilles, who was the daughter of Vesta and Aldebaran, and had Libra as a brother. Orion married Herakles, an Akkadian, and they had six sons: the eldest, Capella, was a fine horseman; Fides, a good runner, slim and lightly built; Dorado, a fair rider and first-rate at games, fond of a game like quoits, throwing rings on upright posts; Elektra, Canopus and Arcor, the third, fifth and sixth. As daughters there were: Gemini, who, by a strange repetition of the story of eight thousand years before, married Apis, an Arabian, who had travelled thus far from his home; Fortuna, Draco, Hygeia, a very fat girl, to whom the baby Capricorn clung with much energy, and a passionate child, Polaris, who was seen on her back, screaming vigorously, because an animal had carried off her toy. Albireo married Hector, and Pegasus, Leo and Berenice were found in her family. Pallas and Helios were in the valley, as said in the text.
 
-### Приложение 9
+## Приложение 9
 
-#### В эмиграции Около 30,000 лет до н.э.
+###### В эмиграции Около 30,000 лет до н.э.
 
 VAIVASVATA MANU as leader. His Captains: MARS (wife, NEPTUNE), Corona (wife, OSIRIS) his brother, VULCAN (wife, VENUS), Theodoros, (wife, Aldebaran), VAJRA. In body-guard: Ulysses, Herakles, Sirius, Arcor, Leo, Alcyone, Polaris. MERCURY married Rama, Vajra married URANUS. Ulysses married Spica. Herakles, son of Mars, married Psyche, and had Capella, Dolphin, Lutetia and Canopus, as sons and a daughter, Daphne. Sirius married Achilles, and, Aurora, Dorado. Capella married Bellatrix. Leo married Leto. Alcyone married Fides, and had as children Cygnus, Mira, Perseus, Proserpina, Demeter; Polaris married Minerva. Vega married Helios, Castor married Aries, and had a son Lachesis who married Rhea. Calypso married Amalthea; Tolosa was among their children. Velleda had among his children Cyrene and Sirona. Markab was a soldier, and married Clio. Vesta, Mizar, Albireo, Orion, Ajax, Hector, Crux and Selene were also seen. Trapezium was an insurgent chief.
 
-### Приложение 10
+## Приложение 10
 
-#### Первая Арийская миграция в Индию 18,875 лет до н.э.
+###### Первая Арийская миграция в Индию 18,875 лет до н.э.
 
 MARS married MERCURY, and had sons URANUS, Herakles, and Alcyone, daughters, BRIHASPATI and Demeter; BRIHASPATI married first VULCAN and after his death Corona the son of VIRAJ, and had one son, Trefoil, who married Arcturus, and five daughters: Fides, who married Betelgueuse; Thor, who married Iphigenia; Rama, who married Perseus; Daedalus, who married Elsa; and Rector who married Fomalhaut. SATURN was king in South India, and had Crux as son; SURYA was High Priest, and OSIRIS, Deputy High Priest.
 
 Herakles married Capella, and had as sons, Cassiopeia, Altair and Leto, as daughters, Argus and Centaurus. Alcyone married Theseus, and had four sons: Andromeda, Betelgueuse, Fomalhaut and Perseus, and three daughters, Draco, NEPTUNE , and Arcturus. Demeter married Wenceslas, and had as sons Elsa, Iphigenia and Diana, who married respectively, Daedalus, Thor, and Draco. Cassiopeia married Capricorn, and had Cetus, Spica and Adrona as sons, Sirona as daughter; Spica married Kudos, Altair married Polaris, and had Tolosa as son Leto married Gemini. Argus married Andromeda and had among her sons Arcor, who married Mizar, the daughter of NEPTUNE and Hector; the latter had also Siwa and Orpheus as sons. Diomede married Orpheus. Regulus and Irene were daughters of Arcor and Mizar. Argus married a second husband, Mathematicus, and had three daughters, Diomede, Judex who married Beatus, and Kudos. Centaurus married Concordia. Of Alcyone' s sons: Andromeda married Argus as said, and died early; Betelgueuse married Fides, and had as sons, Flos, and Beatus who married Judex, Fomalhaut married Rector, Perseus married Rama, Draco, Diana, NEPTUNE , Hector, and Arcturus, Trefoil. Alcyone' s wife, Theseus, was the daughter of Glaucus and Telemachus, and the latter had a sister, Soma. Alastor was in Central Asia. Taurus, a Mongol, had Procyon as wife, and Cygnus as daughter, who married Aries.
 
-### Приложение 11
+## Приложение 11
 
-#### Арийская миграция в Индию 17,455 лет до н.э.
+###### Арийская миграция в Индию 17,455 лет до н.э.
 
 JUPITER married SATURN and had MARS as his son and MERCURY as his sister. MARS married NEPTUNE, and had sons, Herakles, Siwa and Mizar, daughters OSIRIS, Pindar and Andromeda. Herakles married Cetus, and had, as sons, Gemini and Arcor; as daughters, Polaris who married Diana, Capricorn who married Glaucus, and Adrona. Siwa married Proserpina, Mizar married Rama, and had as sons: Diana and Daedalus; as daughters; Diomede and Kudos, OSIRIS married Perseus.
 
 VULCAN married Corona, and their three daughters, Rama, Rector, and Thor, married respectively Mizar, Trefoil and Leto. Psyche, a friend of Mars, married Arcturus, and had as sons, Alcyone, Albireo, Leto and Ajax; as daughters, Beatrix, Procyon and Cygnus. Alcyone married Rigel and had as sons: Cassiopeia who married Diomede; Crux who married Kudos, and Wenceslas who married Regulus. They had also three daughters: Taurus who married Concordia, Irene who married Flos, and Theseus who married Daedalus. Albireo married Hector, and had a daughter Beatus who married Iphigenia. Leto married Thor, and had a son, Flos. Ajax married Elsa, Beatrix, Mathematicus, and Cygnus, Fomalhaut. Capella, another friend of MARS, married Judex, and had as sons Perseus, who married OSIRIS, and Fomalhaut, who married Cygnus. The daughters were Hector, Demeter, who married Aries, and Elsa, who married Ajax. Vajra married Orpheus, and had Draco and Altair as sons, BRIHASPATI, URANUS and Proserpina as daughters. Draco married Argus, and had as son Concordia, who married Taurus. Altair married Centaurus, and their daughter, Regulus, married Wenceslas. Betelgueuse married Canopus, and had Spica and Olympia as sons, Rigel as daughter. Spica married Telemachus, and had two sons, Glaucus and Iphigenia, whose marriages are mentioned above. Castor married Pollux, and had as sons Aries and Alastor, and three daughters, Minerva, Sirona and Pomona.
 
-### Приложение 12
+## Приложение 12
 
-#### Арийская миграция в Индию 15,950 лет до н.э.
+###### Арийская миграция в Индию 15,950 лет до н.э.
 
 SURYA was father of MARS and MERCURY. MARS married BRIHASPATI , and had sons, JUPITER , Siwa and VIRAJ; daughters, OSIRIS, URANUS, and Ulysses. JUPITER married Herakles, and they had as sons: Beatrix who married Pindar, Aletheia who married Taurus, and Betelgueuse; and as daughters: Canopus who married Fomalhaut, Pollux who married Melpomene, and Hector who married NEPTUNE . URANUS married Leo, and Ulysses, Vajra; the latter had as sons: Clio, who married Concordia, Melpomene, and Alastor, who married Gemini; as daughters: Irene, who married Adrona, Sirona, who married Spica, and Beatus, who married Soma.
 
@@ -124,9 +124,9 @@ MERCURY married SATURN, and their sons were: Selene, Leo, Vajra and Castor, and 
 
 На одном из полюсов человеческой эволюции стоят во время иммиграции четыре Кумары, Ману и Махагуру, а на другом — Скорпио, высший жрец Ya-uli.
 
-### Приложение 13
+## Приложение 13
 
-#### В северной Индии 12,800 лет до н.э.
+###### В северной Индии 12,800 лет до н.э.
 
 MARS and MERCURY were brothers. MARS married SATURN, and had two sons, Vajra and VIRAJ, and two daughters, VULCAN and Herakles. Vajra married Proserpina, and had three sons, Ulysses, Fides and Selene, and three daughters, Beatrix, Hector and Hestia. VIRAJ married OSIRIS, VULCAN married URANUS, and Herakles, Polaris. Ulysses married Philae, and had three sons: Cygnus who married Diana, Calliope who married Parthenope, and Pisces, Ajax; the daughters were Bellatrix who married Thor, Aquarius who married Clarion, and Pepin who married Lignus. Returning to the sons of Vajra we have: Fides who married Iphigenia, and had three sons: Aquila who married Sappho, Kudos, Concordia, and Beatus, Gimel. They had four daughters: Herminius married to Nicosia, Sextans to Virgo, Sagittarius to Clio, Parthenope to Calliope. Selene married Achilles and had two sons: Aldebaran marrying Elektra, and Helios marrying Lomia. There were five daughters: Vega marrying Leo, Rigel marrying Leto, Alcestis marrying Aurora, Colossus marrying Aries, and Eros marrying Juno. Of Vajra' s daughters, Beatrix married Albireo, and had two sons, Berenice who married Canopus, and Deneb. The daughters, Pindar and Lyra, married respectively Capella and Euphrosyne. Hector married Wenceslas, and had as sons: Leo, Leto, Norma marrying Melete, Nicosia marrying Herminius; the daughters were: Ajax married to Pisces, arid Crux married to Demeter. Hestia married Telemachus; their sons were: Thor, Diomede married to Chrysos; the daughters were Sappho, Trefoil, Minorca married to Lobelia, and Magnus to Calypso. Herakles, the daughter of MARS, married Polaris; their three sons, Viola, Dorado, and Olympia, married respectively Egeria, Dactyl and Mira; the daughter, Phoenix, married Atalanta. Voila and Egeria had four sons: Betelgueuse married to Iris, Nitocris married to Brunhilda, Taurus to Tiphys and Perseus to Fons; one daughter, Lomia, married Helios, the other, Libra, married Boreas. Dorado and Dactyl had sons: Centurion married to Theodoros, Pegasus to Priam, Scotus to Ausonia; daughters; Arcturus to Rector, and Brunhilda to Nitocris. Olympia married Mira, and had four sons: Clarion married Aquarius, Pollux, Cancer, Procyon, Avelledo, and Capricorn, Zama. The daughter, Arcor, married Centaurus. Phoenix, the daughter of Herakles, who married Atalanta, had three sons: Gemini, Lignus and Virgo, who married Adrona, Pepin and Sextans; there were three daughters: Daleth married Regulus, Dolphin married Formator, and Daphne, Apis. That finishes the descendants of MARS.
 
@@ -142,7 +142,7 @@ Psyche, the brother of Mizar, married Mathematicus, and they had three daughters
 
 Draco married Cassiopeia; their sons were: Argus, Beth, Atalanta and Castor, who married Pallas; his daughters were: Andromeda, Dactyl, Alexandros, Auriga. Vesta was also present.
 
-### Приложение 14
+## Приложение 14
 
 #### Арианизация Египта
 

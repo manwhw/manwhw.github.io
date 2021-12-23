@@ -2,7 +2,6 @@
 
 ## Содержание
 
-- [Диаграммы](/ru/diagrams.md)
 - [Предисловие](/ru/foreword)
 - [Некоторые из имён упоминаемые в книге](/ru/characters)
 - [Введение](/ru/introduction)
@@ -14,14 +13,20 @@
 - [Нирвана между цепями](/ru/06.0.interchain-nirvana)
 - [Начало Земной Цепи](/ru/06.early-earth-chain)
   - [Четвёртая Коренная Раса](/ru/08.4th-root-race)
+    - [Чёрная Магия Атлантиды](ru/10.atlantean-black-magic)
+    - [Цивилизация Атлантиды](ru/11.atlantean-civilization)
+    - Две Цивилизации Атлантиды
+      - [Толтеки. Древнее Перу.](/ru/12.tolteks-ancient-peru)
+      - [Туранская цивилизация](/ru/13.turanians-ancient-chaldea)
   - [Начало Пятой Коренной Расы](/ru/14.5th-root-race)
-- [Человек: Куда. Видение Короля Ашоки](/ru/22.vision-of-king-ashoka)
   - [Начало Шестой Коренной Расы](/ru/23.6th-root-race)
-- [Заключение](/ru/conclusion)
+    - [Заключение](/ru/conclusion)
 - [Эпилог](/ru/epilogue)
 - [Приложения](/ru/appendix)
 
-### Title 3
-#### Title 4
-##### Title 5
-###### Title 6
+## Диаграммы
+
+![](/img/1.jpg)
+![](/img/2.jpg)
+![](/img/3.jpg)
+![](/img/4.jpg)
