@@ -1,6 +1,6 @@
 # Человек: Откуда, Как и Куда
 
-Полный перевод книги "Man: Whence, How and Whither."
+Полный перевод книги [Man: Whence, How and Whither](https://archive.org/details/manwhencehowandw031919mbp) by A. Besant and C.W. Leadbeater.
 
 ## Содержание
 
@@ -11,8 +11,8 @@
   - [Основы](/ru/01.preliminaries)
   - [Первые Две Цепи](/ru/02.1st-and-2nd-chains)
   - [Начало Лунной Цепи](/ru/03.early-moon-chain)
-    - [Шестой Раунд Лунной Цепи](/ru/04.6th-moon-round)
-    - [Седьмой Раунд Лунной Цепи](/ru/05.7th-moon-round)
+    - [Шестой Круг Лунной Цепи](/ru/04.6th-moon-round)
+    - [Седьмой Круг Лунной Цепи](/ru/05.7th-moon-round)
   - [Нирвана между цепями](/ru/06.0.interchain-nirvana)
   - [Начало Земной Цепи](/ru/06.early-earth-chain)
     - [Первый Круг](/ru/07.1st-round)
@@ -29,11 +29,11 @@
       - [Начало Пятой Коренной Расы](/ru/14.5th-root-race)
         - [Возведение Великого Города](/ru/15.the-great-city)
         - [Ранняя Арийская Цивилизация и Империя](/ru/16.1-aryans)
-        - [Вторая Подраса: Арабская](/ru/16.2-arabians)
-        - [Третья Подраса: Иранская](/ru/16.3-iranians)
-        - [Четвёртая Подраса: Кельтская](/ru/16.4-celts)
-        - [Пятая Подраса: Тевтонская](/ru/16.5-teutons)
-        - [Root stock и его появление в Индии](/ru/16.root-stock)
+        - [2-ая Подраса: Арабская](/ru/16.2-arabians)
+        - [3-яя Подраса: Иранская](/ru/16.3-iranians)
+        - [4-ая Подраса: Кельтская](/ru/16.4-celts)
+        - [5-ая Подраса: Тевтонская](/ru/16.5-teutons)
+        - [Зарождение коренной расы в Индии](/ru/16.root-stock)
 - Человек: Куда
   - [Предисловие](/ru/20.6th-root-race-intro)
   - [Видение Короля Ашоки](/ru/21.king-ashoka-vision)
