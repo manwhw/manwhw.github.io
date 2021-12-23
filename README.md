@@ -43,4 +43,4 @@
   - [Архитектура и Обычаи](/ru/26.architecture-and-customs)
   - [Заключение](/ru/conclusion)
 - [Эпилог](/ru/epilogue)
-- [Приложения](/ru/appendix)
+- [Приложения](ru/appendix.md)
