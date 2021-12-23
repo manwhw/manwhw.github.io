@@ -40,7 +40,7 @@
 
 ## Диаграммы
 
-![](/img/1.jpg)
-![](/img/2.jpg)
-![](/img/3.jpg)
-![](/img/4.jpg)
+[![](/img/p1.jpg)](/img/1.jpg)
+[![](/img/p2.jpg)](/img/2.jpg)
+[![](/img/p3.jpg)](/img/3.jpg)
+[![](/img/p4.jpg)](/img/4.jpg)
