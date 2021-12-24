@@ -1,6 +1,10 @@
 # Человек: Откуда, Как и Куда
 
+###### Dec 2021
+
 Полный перевод книги [Man: Whence, How and Whither](https://archive.org/details/manwhencehowandw031919mbp) (A. Besant and C.W. Leadbeater).
+
+![](/img/4.jpg)
 
 ## Содержание
 
