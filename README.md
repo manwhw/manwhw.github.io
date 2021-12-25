@@ -9,7 +9,7 @@
 ## Содержание
 
 - [Предисловие](ru/00.foreword.md)
-- [Некоторые из имён упоминаемые в книге](ru/00.characters.md)
+- [Имена упоминаемые в книге](ru/00.characters.md)
 - [Введение](ru/01.introduction.md)
 - Человек: Откуда и Как
   - [Основные понятия](ru/01.preliminaries.md)
@@ -27,12 +27,11 @@
       - [Четвёртая Коренная Раса](ru/08.4th-root-race.md)
         - [Чёрная Магия Атлантиды](ru/10.atlantean-black-magic.md)
         - [Цивилизация Атлантиды](ru/11.atlantean-civilization.md)
-        - Две Цивилизации Атлантиды
-          - [Толтеки, Древнее Перу](ru/12.tolteks-ancient-peru.md)
-          - [Туранцы, Древняя Халдея](ru/13.turanians-ancient-chaldea.md)
+        - [Толтеки, Древнее Перу](ru/12.tolteks-ancient-peru.md)
+        - [Туранцы, Древняя Халдея](ru/13.turanians-ancient-chaldea.md)
       - [Начало Пятой Коренной Расы](ru/14.5th-root-race.md)
         - [Возведение Великого Города](ru/15.the-great-city.md)
-        - [Ранняя Арийская Цивилизация и Империя](ru/16.1-aryans.md)
+        - [Ранняя Арийская Цивилизация](ru/16.1-aryans.md)
         - [Вторая Подраса: Арабская](ru/16.2-arabians.md)
         - [Третья Подраса: Иранская](ru/16.3-iranians.md)
         - [Четвертая Подраса: Кельтская](ru/16.4-celts.md)
