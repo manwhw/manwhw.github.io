@@ -2,7 +2,7 @@
 
 ###### Dec 2021
 
-Полный перевод книги [Man: Whence, How and Whither](https://archive.org/details/manwhencehowandw031919mbp) (A. Besant and C.W. Leadbeater).
+Полный перевод книги [Man: Whence, How and Whither](https://archive.org/details/manwhencehowandw031919mbp) (А. Безант, Ч.У. Ледбитер).
 
 ![](/img/4.jpg)
 
