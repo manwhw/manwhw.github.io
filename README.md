@@ -36,7 +36,7 @@
         - [Третья Подраса: Иранская](ru/16.3-iranians.md)
         - [Четвертая Подраса: Кельтская](ru/16.4-celts.md)
         - [Пятая Подраса: Тевтонская](ru/16.5-teutons.md)
-        - [Зарождение коренной расы в Индии](ru/16.root-stock.md)
+        - [Путешествие Коренной Расы в Индию](ru/16.root-stock-in-india.md)
 - Человек: Куда
   - [Предисловие](ru/20.6th-root-race-intro.md)
   - [Видение Короля Ашоки](ru/21.king-ashoka-vision.md)
@@ -44,9 +44,9 @@
   - [Религия и Храмы](ru/24.religion-and-temples.md)
   - [Образование и Семья](ru/25.education-and-family.md)
   - [Архитектура и Обычаи](ru/26.architecture-and-customs.md)
-  - [Заключение](ru/conclusion.md)
-- [Эпилог](ru/epilogue.md)
-- [Приложения](ru/appendix.md)
+  - [Заключение](ru/30.conclusion.md)
+- [Эпилог](ru/31.epilogue.md)
+- [Приложения](ru/32.appendix.md)
 
 ## См. также
 
