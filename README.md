@@ -11,8 +11,7 @@
 - [Предисловие](ru/00.foreword.md)
 - [Имена упоминаемые в книге](ru/00.characters.md)
 - [Введение](ru/01.introduction.md)
-- Человек: Откуда и Как
-  - [Основные понятия](ru/01.preliminaries.md)
+- [Человек: Откуда и Как](ru/01.preliminaries.md)
   - [Первые Две Цепи](ru/02.1st-and-2nd-chains.md)
   - [Начало Лунной Цепи](ru/03.early-moon-chain.md)
     - [Шестой Круг Лунной Цепи](ru/04.6th-moon-round.md)
@@ -37,15 +36,14 @@
         - [Четвертая Подраса: Кельтская](ru/16.4-celts.md)
         - [Пятая Подраса: Тевтонская](ru/16.5-teutons.md)
         - [Путешествие Коренной Расы в Индию](ru/16.root-stock-in-india.md)
-- Человек: Куда
-  - [Предисловие](ru/20.6th-root-race-intro.md)
+- [Человек: Куда](ru/20.6th-root-race-intro.md)
   - [Видение Короля Ашоки](ru/21.king-ashoka-vision.md)
   - [Начало Шестой Коренной Расы](ru/23.early-6th-root-race.md)
   - [Религия и Храмы](ru/24.religion-and-temples.md)
   - [Образование и Семья](ru/25.education-and-family.md)
   - [Архитектура и Обычаи](ru/26.architecture-and-customs.md)
   - [Заключение](ru/30.conclusion.md)
-- [Эпилог](ru/31.epilogue.md)
+  - [Эпилог](ru/31.epilogue.md)
 - [Приложения](ru/32.appendix.md)
 
 ## См. также
